@@ -1,0 +1,10 @@
+{
+  "name": "recursion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mathjs": "^11.5.0"
+  },
+  "type": "module"
+}
